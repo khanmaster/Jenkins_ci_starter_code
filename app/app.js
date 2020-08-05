@@ -42,7 +42,7 @@ app.get('/fibonacci/:n' , function(req,res){
 // });
 
 app.listen(3000 , function(){
-  console.log('Our app is ready and listening on port 3000');
+  console.log('Sparta app is ready and listening on port 3000');
 });
 
 
